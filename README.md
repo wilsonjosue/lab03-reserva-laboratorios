@@ -1,0 +1,1 @@
+Implementa la consulta de disponibilidad según lo planificado en OpenProject.
